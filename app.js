@@ -668,5 +668,5 @@ app.get('/api/order-products/user/:id', (req, res) => {
 
 });
 
-app.listen(3002);
+app.listen(3001);
 console.log('Drinks-R-Us API is running');
